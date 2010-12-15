@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE overlay SYSTEM "chrome://pullrequest128/locale/translations.dtd">
+
+<overlay id="sample" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+  <script type="application/x-javascript" src="chrome://pullrequest128/content/testcase.js" />
+
+</overlay>
