@@ -2,7 +2,7 @@ This is a test case for jQuery pull request 128: https://github.com/jquery/jquer
 
 To run the code, create an extension proxy file as described here: https://developer.mozilla.org/en/setting_up_extension_development_environment
 
-1. Run Firefox 4 with this extensions installed
+1. Run Firefox 4 with this extension installed
 2. Open any webpage
 3. Open the error console
 
