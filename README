@@ -1,1 +1,11 @@
 This is a test case for jQuery pull request 128: https://github.com/jquery/jquery/pull/128
+
+To run the code, create an extension proxy file as described here: https://developer.mozilla.org/en/setting_up_extension_development_environment
+
+1. Run Firefox 4 with this extensions installed
+2. Open any webpage
+3. Open the error console
+
+Expected: no exception in jquery-1.4.4
+
+Actual: exception in jquery-1.4.4.js on line 1091
